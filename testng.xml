@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="flaconi_Assignment">
+  <test thread-count="5" name="TaskTest">
+    <classes>
+      <class name="testCases.TC_1"/>
+    </classes>
+  </test> <!-- TaskTest -->
+</suite> <!--  -->
